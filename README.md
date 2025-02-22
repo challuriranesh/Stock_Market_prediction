@@ -1,1 +1,1 @@
-# Stock_Market_prediction
+# Stock Price Prediction Using LSTM Neural Networks
